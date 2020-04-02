@@ -1,7 +1,7 @@
 {
   "name": "egg-node-cache",
   "version": "1.0.0",
-  "description": "",
+  "description": "egg.js plugin for node-cache",
   "eggPlugin": {
     "name": "cache"
   },
@@ -52,6 +52,6 @@
     "url": "https://github.com/eggjs/egg/issues"
   },
   "homepage": "https://github.com/eggjs/egg-node-cache#readme",
-  "author": "",
+  "author": "satious",
   "license": "MIT"
 }
